@@ -27,4 +27,5 @@
 ## Tempo do projeto
 
 3,5 anos
+
 Dezembro de 2024 a junho de 2028
