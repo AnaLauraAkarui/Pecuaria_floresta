@@ -1,4 +1,4 @@
-# Projeto Pecuário Floresta
+# Projeto Pecuária Floresta
 
  O projeto irá trabalhar em quatro propriedades de São Luiz do Paraitinga, com o objetivo de apoiar os processsos de restauração ecológica tanto das áreas destinadas à recomposição florestal como as áreas de pastagem. A atividade produtiva praticada é pecuária leiteira, manejada a base de pasto e o presente projeto vem apoiar na melhoria geral da paisagem fazendo o plantio e enriquecimento de áreas de floresta e intervenções nas áreas de pastagem com o objetivo de impulsionar a diversificação da pastagem e a qualidade do solo.
 
